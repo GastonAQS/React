@@ -1,7 +1,6 @@
 import React from "react";
 import { connect } from "react-redux";
 import { fetchUser } from "../actions";
-import lodash from "lodash";
 
 class UserHeader extends React.Component {
   componentDidMount() {
