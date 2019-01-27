@@ -1,5 +1,6 @@
 import React from "react";
 import { connect } from "react-redux";
+import GoogleAuth from "./GoogleAuth";
 
 class UserHeader extends React.Component {
   render() {
