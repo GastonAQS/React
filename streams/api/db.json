@@ -1,9 +1,15 @@
 {
   "streams": [
     {
-      "title": "My stream",
-      "description": "This is a great stream!",
+      "title": "mega lol",
+      "description": "super equis de",
+      "userId": "110110465555119917744",
       "id": 1
+    },
+    {
+      "title": "Component GOD",
+      "description": "god-like REFACTOR",
+      "id": 2
     }
   ]
 }
